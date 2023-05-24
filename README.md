@@ -3,10 +3,10 @@
 - 🌱 Atualmente estudando Springboot
 - 😄 Pronomes: Ele/Dele
 
-<div align=center>
+<!-- <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfiliperm&count_private=true&show_icons=true&theme=github_dark" />
   <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfiliperm&layout=compact&hide=hack&show_icons=true&theme=github_dark" />
-</div>
+</div> -->
 
 <div align=center><br>
   <img align="center" alt="Filipe-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
