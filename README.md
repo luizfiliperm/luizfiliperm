@@ -1,6 +1,6 @@
 ## 👋🏼 Olá! Me chamo Luiz Filipe 
-- 🔭 Estou cursando o 3° período de Ciências da Computação
-- 🌱 Atualmente estudando Springboot
+- 🔭 Estou cursando o 4° período de Ciências da Computação
+- 🌱 Atualmente focado em Springboot
 
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfiliperm&count_private=true&show_icons=true&theme=github_dark" />
@@ -14,7 +14,11 @@
   <img align="center" alt="Filipe-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Filipe-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Filipe-SPRING" height="50" width="50" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  
 </div>
+
 
 ##
 <div style="display: inline_block" ><br>
