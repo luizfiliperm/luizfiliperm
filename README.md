@@ -1,5 +1,5 @@
 ## 👋🏼 Olá! Me chamo Luiz Filipe 
-- 🔭 Estou cursando o 4° período de Ciências da Computação
+- 🔭 Estou cursando o 5° período de Ciências da Computação
 - 🌱 Atualmente focado em Springboot
 
 <div align=center>
