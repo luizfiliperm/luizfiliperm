@@ -1,6 +1,7 @@
 ## 👋🏼 Olá! Me chamo Luiz Filipe 
 - 🔭 Estou cursando o 6° período de Ciências da Computação
 - 🌱 Atualmente focado em Springboot
+- 👨‍💻 Desenvolvedor backend em [Asaas](github.com/asaasdev)
 
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfiliperm&count_private=true&show_icons=true&theme=github_dark" />
