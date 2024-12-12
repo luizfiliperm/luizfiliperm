@@ -1,5 +1,5 @@
 ## 👋🏼 Olá! Me chamo Luiz Filipe 
-- 🔭 Estou cursando o 6° período de Ciências da Computação
+- 🔭 Estou cursando o 7° período de Ciências da Computação
 - 🌱 Atualmente focado em Springboot
 - 👨‍💻 Desenvolvedor backend em [Asaas](github.com/asaasdev)
 
